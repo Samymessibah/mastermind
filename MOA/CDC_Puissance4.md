@@ -28,6 +28,15 @@ Spécifications
 - Le terrain est composé de 7 colonnes et 6 lignes
 
 ----------
+#### Début d'une partie
+
+- Les joueurs choisissent leurs noms l'un après l'autre.
+
+- Attribution d'une couleur pour chaque joueur.
+
+- Le joueur jaune commence la partie
+
+----------
 #### Déroulement d'un tour.
 
  1.  Le joueur dont c'est le tour choisit une colonne.
