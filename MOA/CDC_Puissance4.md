@@ -37,6 +37,8 @@ Spécifications
  3. Si ce joueur réalise un alignement, il gagne la partie.
  
  4. Les 4 jetons alignés qui ont fait gagner le joueur sont indiqués aux deux joueurs avant la fin de la partie.
+ 
+ 5. Si le plateau est rempli, la partie se finit sur un match nul
 
  
 ----------
