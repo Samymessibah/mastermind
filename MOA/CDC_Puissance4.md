@@ -17,7 +17,7 @@ Spécifications
 > *Source: Wikipédia.*
 
 ----------
-#### Règle de jeu de Puissance 4.
+#### Règles de jeu de Puissance 4.
 
 - Le jeu se joue à deux joueurs.
 
