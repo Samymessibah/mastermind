@@ -3,7 +3,7 @@ Recettes Puissance 4
 ----------
 #### 
 
-- Il y a bien 2 joueurs
+- En ouvrant l'application, il est possible de nommer les 2 joueurs participant à la partie
 
 - Les deux sortes de jetons sont identifiables
 
