@@ -5,3 +5,6 @@ C:\Users\jordi_2\mastermind\MOE\mastermind\mastermind\bin\Debug\mastermind.exe
 C:\Users\jordi_2\mastermind\MOE\mastermind\mastermind\bin\Debug\mastermind.pdb
 C:\Users\jordi_2\mastermind\MOE\mastermind\mastermind\obj\Debug\mastermind.exe
 C:\Users\jordi_2\mastermind\MOE\mastermind\mastermind\obj\Debug\mastermind.pdb
+A:\Perso\Bibliothèque\Documents\GitHub\mastermind\MOE\mastermind\mastermind\bin\Debug\mastermind.exe.config
+A:\Perso\Bibliothèque\Documents\GitHub\mastermind\MOE\mastermind\mastermind\obj\Debug\mastermind.exe
+A:\Perso\Bibliothèque\Documents\GitHub\mastermind\MOE\mastermind\mastermind\obj\Debug\mastermind.pdb

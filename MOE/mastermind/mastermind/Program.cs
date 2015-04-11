@@ -20,7 +20,6 @@ namespace mastermind
             r.Read();
             s = f.formater(i);
             d.Show(s);
-            
         }
     }
 }

@@ -8,6 +8,13 @@ namespace mastermind
 {
     class Combinaison
     {
-        List<int> combinaison = new List<int>();
+        private int[] tabcombinaison;
+
+        public Combinaison(int[] a)
+        {
+            tabcombinaison = a;
+        }
+
+
     }
 }
