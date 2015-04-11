@@ -1,1 +1,7 @@
 F:\MIAGE\SAUV\Janvier-\GL2\Projet\mastermind\mastermind\mastermind\mastermind\bin\Debug\mastermind.exe.config
+C:\Users\jordi_2\mastermind\MOE\mastermind\mastermind\bin\Debug\mastermind.exe.config
+C:\Users\jordi_2\mastermind\MOE\mastermind\mastermind\obj\Debug\mastermind.csprojResolveAssemblyReference.cache
+C:\Users\jordi_2\mastermind\MOE\mastermind\mastermind\bin\Debug\mastermind.exe
+C:\Users\jordi_2\mastermind\MOE\mastermind\mastermind\bin\Debug\mastermind.pdb
+C:\Users\jordi_2\mastermind\MOE\mastermind\mastermind\obj\Debug\mastermind.exe
+C:\Users\jordi_2\mastermind\MOE\mastermind\mastermind\obj\Debug\mastermind.pdb
